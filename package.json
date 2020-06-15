@@ -1,8 +1,8 @@
 {
-  "name": "@servicelabsco/nestjs-test-package",
+  "name": "@hemantanshu/nestjs-test-package",
   "version": "1.0.0",
   "description": "NestJS npm package starter",
-  "author": "John Biundo <johnfbiundo@gmail.com>",
+  "author": "Hemant Kumar Sah <hemantanshu@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "main": "dist/index.js",
