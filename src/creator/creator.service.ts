@@ -9,6 +9,7 @@ export class CreatorService {
         @InjectRepository(Creator)
         private readonly repo: Repository<Creator>
     ) {}
+
     async getAllUsers() {
         return await this.repo.find();
     }
