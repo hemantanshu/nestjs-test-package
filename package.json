@@ -1,6 +1,6 @@
 {
   "name": "@hemantanshu/nestjs-test-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "NestJS npm package starter",
   "author": "Hemant Kumar Sah <hemantanshu@gmail.com>",
   "license": "MIT",
